@@ -24,9 +24,9 @@
     "slug": "docs-page",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 544,
     "timeDay": 497,
@@ -34,7 +34,6 @@
     "timeMonth": 410,
     "timeYear": 544,
     "dailyMinutesDown": {
-      "2024-02-12": 12,
       "2023-03-31": 19,
       "2023-03-27": 34,
       "2023-03-17": 7
