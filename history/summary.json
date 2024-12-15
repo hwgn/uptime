@@ -4,18 +4,19 @@
     "url": "https://hendrikwagner.de",
     "icon": "https://icons.duckduckgo.com/ip3/hendrikwagner.de.ico",
     "slug": "main-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 221,
-    "timeDay": 280,
-    "timeWeek": 236,
-    "timeMonth": 233,
+    "timeDay": 215,
+    "timeWeek": 226,
+    "timeMonth": 231,
     "timeYear": 224,
     "dailyMinutesDown": {
+      "2024-12-15": 0,
       "2024-04-20": 15
     }
   },
