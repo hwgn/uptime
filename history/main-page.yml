@@ -1,7 +1,7 @@
 url: https://hendrikwagner.de
-status: up
-code: 200
-responseTime: 279
-lastUpdated: 2025-11-18T11:48:52.156Z
+status: down
+code: 500
+responseTime: 80
+lastUpdated: 2025-11-18T13:03:42.557Z
 startTime: 2022-08-06T15:35:32.000Z
 generator: Upptime <https://github.com/upptime/upptime>
