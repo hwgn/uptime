@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/hendrikwagner.de.ico",
     "slug": "main-page",
     "status": "up",
-    "uptime": "99.31%",
+    "uptime": "99.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 251,
-    "timeDay": 198,
-    "timeWeek": 243,
-    "timeMonth": 236,
-    "timeYear": 254,
+    "timeDay": 195,
+    "timeWeek": 249,
+    "timeMonth": 233,
+    "timeYear": 253,
     "dailyMinutesDown": {
       "2025-11-18": 100
     }
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 511,
-    "timeDay": 343,
-    "timeWeek": 435,
-    "timeMonth": 460,
-    "timeYear": 490,
+    "timeDay": 639,
+    "timeWeek": 466,
+    "timeMonth": 465,
+    "timeYear": 491,
     "dailyMinutesDown": {
       "2025-11-18": 129,
       "2026-02-02": 301
